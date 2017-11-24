@@ -1,12 +1,12 @@
 
 NavigationTabStrip
 ==================
-Based on <a href="https://github.com/Devlight/NavigationTabBar">Devlight/NavigationTabStrip </a>
+Based on <a href="https://github.com/Devlight/NavigationTabBar">Devlight/NavigationTabStrip </a><br/>
 
-Add Strip left-right-padding dimension to enable customize strip width.
+Add Strip left-right-padding dimension to enable customize strip width.<br/>
 
-You can set the [app:nts_strip_left_right_padding="30dp"] in xml to change the strip width.
-When this value is bigger than the line width will ignore the setting, use default strip width.
+You can set the [app:nts_strip_left_right_padding="30dp"] in xml to change the strip width.<br/>
+When this value is bigger than the line width will ignore the setting, use default strip width.<br/>
 
 
             <com.gigamole.navigationtabstrip.NavigationTabStrip
